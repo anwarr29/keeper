@@ -7,7 +7,9 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background-color: #e8dd61;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   padding: 0 16px;
 }
 
@@ -33,7 +35,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #eee;
 }
 .note {
   background: #fff;
